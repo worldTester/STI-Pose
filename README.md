@@ -10,7 +10,7 @@
   
   `SilhouettePE.py` is the kernel algorithm implementation.
   
-## Requirements
+## Environment Configuration
   Execute `pip install -r requirements.txt` to complete the environment configuration.
   
 ## Visualization
