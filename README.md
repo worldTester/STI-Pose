@@ -10,7 +10,7 @@
   Execute `pip install -r requirements.txt` to complete the environment configuration.
 ## Visualization
 <div style="display:flex">
-  <img src="ref_silhouette.png" alt="ref_silhouette.png">
-  <img src="result_silhouette.png" alt="result_silhouette.png">
+  <img src="ref_silhouette.png" alt="ref_silhouette.png" width="50%" height="50%">
+  <img src="result_silhouette.png" alt="result_silhouette.png" width="50%" height="50%">
 </div>
   
