@@ -6,7 +6,7 @@
 ## Project Structure
   `PSO` is the module of the O-PSO, which is adapted from the code of `sko` library.
   
-  `render` is the module of the silhouette renderer, whici is adapted from the code of `vispy`. We achieve the slihouette rendering by writing shaders.
+  `render` is the module of the silhouette renderer, achieved by writing shaders.
   
   `SilhouettePE.py` is the kernel algorithm implementation.
   
