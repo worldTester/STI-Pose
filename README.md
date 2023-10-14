@@ -14,7 +14,7 @@
   Execute `pip install -r requirements.txt` to complete the environment configuration.
   
 ## Visualization
-  Here are the reference silhouette image and the result silhouette image rendered with the predicted object pose.
+  Here are the **reference silhouette image** and the **result silhouette image** rendered with the predicted object pose.
 <div style="display:flex">
   <img src="ref_silhouette.png" alt="ref_silhouette.png" width="50%" height="50%">
   <img src="result_silhouette.png" alt="result_silhouette.png" width="50%" height="50%">
