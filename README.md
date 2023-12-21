@@ -11,7 +11,10 @@
   `SilhouettePE.py` is the kernel algorithm implementation.
   
 ## Environment Configuration
-  Execute `pip install -r requirements.txt` to complete the environment configuration.
+  Use `pip` to install the packages to complete the environment configuration.
+  ```
+  pip install glfw pypng imageio vispy pyOpenGL scipy open3d pyrr matplotlib numpy opencv-python
+  ```
   
 ## Visualization
   Here are the **reference silhouette image** and the **result silhouette image** rendered with the predicted object pose.
